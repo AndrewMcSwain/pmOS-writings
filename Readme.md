@@ -25,7 +25,7 @@ the psychology of identity, community, and use
 
 ## Philosophy/Poetry: 
 general considerations about the nature of reality which are pertinent to our activitiea at postmarketOS
-
+-----------
 # Practical
 ## Marketing:
 understanding who your users are and their lives. learning about them and how to relate to them.
