@@ -2,11 +2,19 @@
 #Title
 This is a collection of writings about the postmarketOS. We focus on the philosophy of design, branding, publicity, and marketing,  well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts. 
 
-We are working on a promotoinal video, which has been oriented by @AndrewMcSwain 's preliminary work with on the branding and anthropology of a few of postmarketOS's hypothetical user demegraphics
+**NOTICE** 
+*We are working on a promotoinal video,* 
+Oriented by some preliminary work on the branding and anthropology of a few of postmarketOS's hypothetical user demegraphics
+
+*We are looking for participants on this project who possess or would like to possess aplicable skills in either the preliminary theoretical and design wwork, the plannning and execution (production), post-production (editing and after-effects) as well as the promo's insertion strategy,*
+Thanks!
+--Andrew 
+4:30pm June 26th 2016
+
 
 Anyone is welcome to participate in this discussion. Feel free to ask questions if something is too vague or too poetic. I am more than happy, I would be exstatix to recieve your questions, comments, criticisms, and collaborations. I urge you to participate even if you think it is not your field. 
 
-The target audience for this is our ENGINEERS, **YOU**. We need your contributions, as well as your and our comprehension!
+The target audience for this is our ENGINEERS, **YOU**. We need your contributions, mutual comprehension is the goal here.
 
 #Theoretical
 ##UX: 
