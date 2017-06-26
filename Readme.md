@@ -1,5 +1,5 @@
 
-# postMarketOS thinking hub
+# postMarketOS 
 ----------------------------
 This is a collection of writings about the postmarketOS. We focus on the philosophy of design, branding, publicity, and marketing, as well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts. 
 
@@ -23,8 +23,9 @@ the anthropology of our users and their tool systems.
 ## Branding: 
 the psychology of identity, community, and use
 
-## Philosophy/Poetry: 
+## Philosophy/Poetry
 general considerations about the nature of reality which are pertinent to our activitiea at postmarketOS
+
 -----------
 # Practical
 ## Marketing:
