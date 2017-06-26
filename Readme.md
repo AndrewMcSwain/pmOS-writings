@@ -1,11 +1,11 @@
 
 # postMarketOS thinking hub
 ----------------------------
-This is a collection of writings about the postmarketOS. We focus on the philosophy of design, branding, publicity, and marketing,  well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts. 
+This is a collection of writings about the postmarketOS. We focus on the philosophy of design, branding, publicity, and marketing, as well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts. 
 
 **NOTICE** 
 *We are working on a promotoinal video,* 
-Oriented by some preliminary work on the branding and anthropology of a few of postmarketOS's hypothetical user demographics. this
+Oriented by some preliminary work on the branding and anthropology of a few of postmarketOS's hypothetical user demographics.
 
 *We are looking for participants on this project who possess or would like to possess aplicable skills in either the preliminary theoretical and design wwork, the plannning and execution (production), post-production (editing and after-effects) as well as the promo's insertion strategy, or internal usage with focus groups and market radaring.*
 Thanks!
@@ -37,9 +37,12 @@ ways Aesthetic Design can be systematically expressed using the guides of Market
 things @AndrewMcSwain is considering: hacking the android interfaces to improve flexibility and/or ease users into a creative and technical mentality. making it easier to hack them (as easy as html css or react). clone android interface as a starting point for a possible pmOS skin or theme. multiple themes or profiles that can be shifted between, without losing work or modifying stack, just shift abstraction layer characteristics to better suit need. this will require it's own page. this kind of stuff goes here.
 New pmOS-sourced functionality and engineering perspectives
 ### Scraps and Notes:
-where everything can go if you dont want it any of the above categories or if dont know where it should go.
+
+where everything can go, if you dont want it any of the above categories or if dont know where it should go.
 ### Meta:
-the organization of this page/\. should we look at using twist? persistent ways of exchange are too hard to publish into. instanteous and interactive avenues like chat has the problem of persistence and consistency, and most importantly, is not inclusive enough. many participants lack consistent internet or have the proper technology for running a slack/gitter client. email is persistent dynamic inclusive and easy to publish and inclusive but disorganized. This kind of stuff goes here.
+Discussion of the organization of this page. 
+
+Examples: Should we look at using twist? persistent ways of exchange are too hard to publish into. instanteous and interactive avenues like chat has the problem of persistence and consistency, and most importantly, is not inclusive enough. many participants lack consistent internet or do not have reliable access to the proper technology for running a slack/gitter client. email is persistent dynamic inclusive and easy to publish and inclusive but disorganized. This kind of stuff goes here.
 
 # TOC
 Subject|Synopsis|Topics|Last Update
