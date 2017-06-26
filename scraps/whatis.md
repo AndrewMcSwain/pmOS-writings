@@ -1,0 +1,1 @@
+old scraps of writings, drafts, blobs, comments, whatever you want. you can put it in the month's folder, a user folder, or any other folder you want. you can just throw it here in the local root if you want. it is up to you. 
