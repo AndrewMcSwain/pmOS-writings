@@ -20,9 +20,11 @@ The target audience for this is our ENGINEERS, **YOU**. We need your contributio
 # Theoretical
 ## UX: 
 the anthropology of our users and their tool systems. 
-## Bran...ding: the psychology of identity, community, and use
+## Branding: 
+the psychology of identity, community, and use
 
-## Philosophy/Poetry: general considerations about the nature of reality which are pertinent to our activitiea at postmarketOS
+## Philosophy/Poetry: 
+general considerations about the nature of reality which are pertinent to our activitiea at postmarketOS
 
 # Practical
 ## Marketing:
