@@ -96,7 +96,7 @@ where everything can go, if you dont want it any of the above categories or if d
 
 Discussion of the organization of this page. 
 
-EXAMPLES: Should we look at using twist? persistent ways of exchange are too hard to publish into. instanteous and interactive avenues like chat has the problem of persistence and consistency, and most importantly, is not inclusive enough. many participants lack consistent internet or do not have reliable access to the proper technology for running a slack/gitter client. email is persistent dynamic inclusive and easy to publish and inclusive but disorganized. This kind of stuff goes here.
+EXAMPLES: Should we look at using twist? persistent ways of exchange are too hard to publish. instanteous and interactive avenues like chat has the problem of persistence and consistency, and most importantly, is not inclusive enough. many participants lack consistent internet or do not have reliable access to the proper technology for running a slack/gitter client. email is persistent, dynamic, inclusive, and easy to publish. The disadvantage is that it's disorganized. This kind of stuff goes here.
 
 # TOC
 Subject | Synopsis | Topics | Last Update
