@@ -1,7 +1,10 @@
 
 # postMarketOS 
 ----------------------------
-This is a collection of writings about the postmarketOS. We focus on the philosophy of design, branding, publicity, and marketing, as well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts. 
+This is a collection of writings about the [postmarketOS]().
+
+We focus on the philosophy of design, branding, publicity, and marketing, as well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts. 
+
 
 **NOTICE** 
 *We are working on a promotoinal video,* 
@@ -85,19 +88,19 @@ WHAT:here we put concrete ideas for the UI and how the experience of the user ca
 EXAMPLES: hacking the android interfaces to improve flexibility and/or ease users into a creative and technical mentality. making it easier to hack them (as easy as html css or react). clone android interface as a starting point for a possible pmOS skin or theme. multiple themes or profiles that can be shifted between, without losing work or modifying stack, just shift abstraction layer characteristics to better suit need. this will require it's own page. this kind of stuff goes here.
 
 
-### Scraps and Notes:
+## Scraps and Notes:
 
 where everything can go, if you dont want it any of the above categories or if dont know where it should go.
 
-### Meta:
+## Meta:
 
 Discussion of the organization of this page. 
 
 EXAMPLES: Should we look at using twist? persistent ways of exchange are too hard to publish into. instanteous and interactive avenues like chat has the problem of persistence and consistency, and most importantly, is not inclusive enough. many participants lack consistent internet or do not have reliable access to the proper technology for running a slack/gitter client. email is persistent dynamic inclusive and easy to publish and inclusive but disorganized. This kind of stuff goes here.
 
 # TOC
-|Subject|Synopsis|Topics|Last Update|
+Subject | Synopsis | Topics | Last Update
 ------------------------------------
-|UX|a framework for approaching UX design of an Operating System|\|\|
-|Philosopoetry|Orient all participants with wisdom. Philosophical essays and Koans.|\|\|
+UX | a framework for approaching UX design of an Operating System | \ | \
+Philosopoetry | Orient all participants with wisdom. Philosophical essays and Koans.| \ | \ 
 
