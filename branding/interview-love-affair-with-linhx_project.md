@@ -15,7 +15,7 @@ reddit thread
 
 Also do this with car culture
 
-Find users that can converge thia, or are or do
+Find users that can converge this, or are or do
 
 What about Tesla marketing and design team, do they want to jelp?
 

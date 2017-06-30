@@ -104,3 +104,6 @@ Subject | Synopsis | Topics | Last Update
 UX | a framework for approaching UX design of an Operating System | \ | \
 Philosopoetry | Orient all participants with wisdom. Philosophical essays and Koans.| \ | \ 
 
+
+
+
