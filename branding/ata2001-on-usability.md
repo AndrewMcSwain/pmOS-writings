@@ -1,3 +1,0 @@
-ata2001 said:
-11:30am June252017
-I'd like postmarketOS to be not just hackable, but something stable, realible and easy to install and use, a mobile OS I could finally recommend my friends to change the stock android with. The android hacking community is sometimes like: This ROM is only for l33tz, don't install, if you don't know what are you doing. I'm not sure, how many of the devs agree, but it would be cool, if I could recommend installing pmOS, after the device was labeled stable, and users would see a friendly, patient community and detailed documentation to install and use it.
