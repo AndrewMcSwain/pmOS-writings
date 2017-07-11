@@ -15,11 +15,66 @@ Publicity abd branding should associate  these, emphasize this commonality in cl
 
 "You should use this tech, learn it, become more human (revive your deep human roots)(which have been somewhat lost in post-industrial world)"
 
+## brand associations
+### primary association
 love your family
 be a toolmaker
 
+### lateral association
 Exercise is important- dont be sedentary
 complex and amazing tool making an tool use is important for everyone too. --- dont be mentally sedentary.
+
+
+# What is the focus of our research
+
+Most of the foundational work for this operating system is anthropological. What is anthropolgy? The study of man. We are focusing on the study of man , his tools, and his environment. 
+
+for us, thhis research is applied practically to:
+*an exploration into the heart of what makes linux appealing*
+
+Some of the ways this research will be conducted:
+
+## Anthropological:
+interviews and oral histories 
+historical analysis
+theoretical (psychoanalysis of user groups)
+
+## Marketing
+
+The tasks for marketing include: 
+
+-**COLLECTION** scraping, parsing, and profiling content from user-curated content aggregators.
+-**ANALYSIS** find out who our potential users/non-users are. What do they like?  what do they talk about, etc.?
+-**DISPLAY** developing novel ways to visualize our (subjective) findings. 
+--VR Displays and motion capture of hand gestures to sift through 3 dimensional layers of media, organized spatially according to relations.
+
+
+Linux is a powerful tool. As are smart phones. When you combine the two, you have yourself and incredible tool. One of the inital focal points of our anthropological research-- what we are seeking to find out first-- is about this relationship, between tool (linux and computing) and human
+-how it develops
+-how it grows
+-why it wanes
+-interactions between users (communities)
+-inter-community relationships
+-relations between developers and users and between developers and decision-makers and between users and decision-makers (product owners).
+
+We are trying to find out what motivates people to become so deeply involved with linux devlopment and use. It`s not easy being a hacker/nerd/computer guru! What motivates people to get to this level? What about the rest of us? I'm not a power user, but most people think that I'm a wizard because I know how to rip audio from a youtube playlist. This has contained within it an element of gamification. 
+
+The natural outgrowth from this is desigining layers of interaction between the total newbie and the uber-hacker. Our job is to design interfaces that appeal to a sense of wonder, discovery, and problem-reward behavior. Necessarily, we need not only interesting and interconnected layers of interfaces, but also a mythos, a story, a set of symbols, that defines our common journey as humans.
+
+Luckily we already have a lot of that already set up.
+
+So perhaps it is best not to think of development as a progression "up,"but a progression backwards. Us finding our roots, remembering the worldview of the human that has been walking the earth and building tools and living in families and tribes (communities) for at least a million years. 
+
+One more important point to consider, in this mythos, that is not necessarily a progression backwards, to finding our roots, is the discovery of electricity by the occident. This technology is proportionally very very very new. When understanding our journey, we not only must know where we've been, but also where we are and where we are going. So the discovery of fire is more or less equal to the discovery of electricity. 
+
+The scale of the impact of this important discovery is totally incaluable from our current perspective.
+
+And that is exciting.
+
+So, rather than thinking of progress in terms of moving foward. Think of the user path of user experience, his curve, as a deepening, and we must design interfaces, with themes and functionalities, that consider the incredibly vast ocean of discovery that awaits us.
+
+We have more content related to user-paths. This is a key element to the design of an OS that tries to [break the false-dichotomy of expert and layman] that has plagued the computing world since the mid-to-late nineties. <<insert content links here>
+
 
 goals: 
 1.understand possible relations between users, the tool, their environment, and their needs.
@@ -35,9 +90,11 @@ To do:
     \ =\ _Are_ /= /
         
         
+Emotional
 Sentiment of users:
-?not as nostaligic (but nostalgia can and does exist)
-
+nostalgia
+primordial drives
+accomplishment
 
 Practical(essential)
 
@@ -54,16 +111,17 @@ interface between groups of users
   Important: dont construct expertise as a hierarchy, see it as a deepening. Why? Community hierarchy centered on USE of tool, rather than it being an end-in-itself. This rids us of toxic elitism.
   
 Multiple brand themes
---Elements of aesthetic
----Colors, 
-----textures, 
-----objects, 
-----spaces,
-----places, 
-----ideas 
-(sensory)
-
-Fonts
+-Elements of aesthetic
+--(sensory)
+---colors 
+---textures
+---objects
+---spaces
+---places 
+---ideas 
+--literary
+---Fonts
+---Spacing
 -
 Positioning (relative to other players)
 
@@ -73,13 +131,20 @@ User profiles
 ---resources
 ---needs
 
- Psychological factors of use and involvment
- discovery
- curiosity
- distinction
- interesting applications/uses
- useful applications/uses
+Psychological factors of use and involvment
+discovery
+curiosity
+distinction
+interesting applications/uses
+useful applications/uses
  
+What happens when someone else, a non-user, sees that said person, who in this case may have begun relatively recently to use linux, is able to do things that the non-user sees as useful, but is outside of his capacity? You`ve just sparked interest in use, or at least a sense of respect and awe, in the non-user. This phenomenon, this exchange, creates two things: 
+--an opportunity for mentorship
+--a curiosity or motivation for the non-user to involve himself
+--a wider acceptance of the hacker
+
+you don't have to sit in front of a computer all day and watch anime to be a hacker. That is a specific user group, but not all of us are do that. If you are one of them, that's fine and great, but a lot of people do not involve themselves further with computing because of this stereotype. The above phenomenon can help improve general user-sophistication. Which is good for almost everyone, save maybe the NSA and blackhats that don't like a challenge.
+
 Find commonalities between user profiles
 Signalling with aesthetic
 3aesthetic:
