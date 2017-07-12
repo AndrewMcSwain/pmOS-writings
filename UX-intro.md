@@ -60,18 +60,12 @@ Linux is a powerful tool. As are smart phones. When you combine the two, you hav
 We are trying to find out what motivates people to become so deeply involved with linux devlopment and use. It`s not easy being a hacker/nerd/computer guru! What motivates people to get to this level? What about the rest of us? I'm not a power user, but most people think that I'm a wizard because I know how to rip audio from a youtube playlist. This has contained within it an element of gamification. 
 
 The natural outgrowth from this is desigining layers of interaction between the total newbie and the uber-hacker. Our job is to design interfaces that appeal to a sense of wonder, discovery, and problem-reward behavior. Necessarily, we need not only interesting and interconnected layers of interfaces, but also a mythos, a story, a set of symbols, that defines our common journey as humans.
-
-Luckily we already have a lot of that already set up.
-
-So perhaps it is best not to think of development as a progression "up,"but a progression backwards. Us finding our roots, remembering the worldview of the human that has been walking the earth and building tools and living in families and tribes (communities) for at least a million years. 
-
-One more important point to consider, in this mythos, that is not necessarily a progression backwards, to finding our roots, is the discovery of electricity by the occident. This technology is proportionally very very very new. When understanding our journey, we not only must know where we've been, but also where we are and where we are going. So the discovery of fire is more or less equal to the discovery of electricity. 
-
-The scale of the impact of this important discovery is totally incaluable from our current perspective.
+<link to common_journey.md>>
 
 And that is exciting.
 
 So, rather than thinking of progress in terms of moving foward. Think of the user path of user experience, his curve, as a deepening, and we must design interfaces, with themes and functionalities, that consider the incredibly vast ocean of discovery that awaits us.
+
 
 We have more content related to user-paths. This is a key element to the design of an OS that tries to [break the false-dichotomy of expert and layman] that has plagued the computing world since the mid-to-late nineties. <<insert content links here>
 
@@ -151,100 +145,6 @@ Signalling with aesthetic
 2Mood Boards
 1Themes
 
-Theme1
-night (PMOS) am pm pmOS
-operating in the shadows
-to bring light to day
-sun
-abraxis/abrasax
-Interesting esoteric -- fits with hacking anf linux -- appeal to curiosity -- edgy
-Tagline perhaps a bit too dramatic
-abraxis may be too 'woo woo'religous for mass appeal/further adoption, 
-
-perhaps this identity would be good for endomarketimg (for internal devs)
-also risks being very cliche / not future proof
-
-Theme 2
-Naturalistic  (see photos)
-brown piles ob\f \\\ leaves
-Pata de vaca tree with blue sky
-primavera trees with blue sky and clouds
- 
-Vines 
- 
- This communicates life ecosystem liberty
- 
- Many branches of the same tree (hackabikity) user participation in porting 
- 
- It can metaphircalically define our 'mission' to port lots of devices
-
- See fredy perlma  against levsisthsn to understand how integrstion with biosphere = liberty
- 
- Also complexity
- 
- Biological/ naturalists
- use old images of early naturalist studies  botanical morphology
-  
- Lots of beautiful shapes in nature
- 
- 
- Theme 3
- primitive
- paleolithic
- variant: paleoastro/astropaleo brand
-
- promotional video: see this. script is in finished first draft.
- 
-  
- Theme 4
-Aged Brutalism
-
- bare metal
- simplicity
- transparency
- ugly/brutalist
- Merge with nautical
- chicago lakefront
- seagulls rocks gray winter
- butterfly in the wind ovee the water
- silence
- Gravel road
- Chipped paint on signpos
- Rust
- Rusty gears'
-Rusty tractor gearbox
-
- Theme 5
-ancient sumerian cuniform
-clay, sand, and limestone
-enkidu: name projects according to mythos and/or indigenous eg: cahokia
-The egyptian pyramids
-
- Theme 6
-Buckminster fuller geometry
-unlocking human potential
-
-A mixture of them
- Chipped paint on signpost
- Plants in ugly dilapidated urban settings emerging green in a brutalist context
-target user the global urban poor? 
-[Photo of homeless feet]
-
-Another mixture:
-paleolithic man in modern times
-
-
-Note on theme 5
-If a brutalist theme or "aged-brutalism" / dilapidated theming is assumed then we can have more conventional aesthetic for front-facing (how do our non-targets view our market and how do our users know others (mostly non-users) are seeing users as a result of our user's association with the brand) and introductory media (includes potential future users. This can be layered on top of other layers of 'close to the metal' representations and organizations of content and functionality (design approaches).
-
-Note on what brand is NOT
-What it isn't: ubuntu is bright and trendy --like big name companies-- i suggest we counter this-- signals we are different
-
-
-----
-A few new tangents that dont fit in the first theme gradient, but could be the basis for further theme gradients.
-What are those?
-
 the people being targeted or who we would would like to attract (or are disposed to being attracted), have, within the group, a diversity of subtle differences in identity and necessity that can be expressed in two ways: functionality and design. 
 
 Visual and brand design is the narrative that connects the tool with the user, with it's use, and the community of collective meaning that user and his tool use is embedded in.
@@ -278,43 +178,16 @@ motivations
 (C)Innovation, Creativity, Art (
 these motivations reinforce each other
 
-----
-A few new tangents that dont fit in the first theme gradient, but could be the basis for further theme gradients.
-What are those?
-Sao Paulo graffiti is the connection??
-Buckminster fuller geometry
-unlocking human potential
-Saopaulp grafiti
-sunpaulo
 
-Theme 7 (from my 4 year old son)
-Cyclone
-ciclone
-seguindo o meu filho, um ciclone é um projeto para fazer outros projetos
-seguindo ele eu preciso fazer esse projeto.
+Go here to see THemes
 
-Classic/antique/collector car is a wonderful aesthetic and cousin subculture. Associstions a bridge can be made.
-
-People admire car collector hobbyists, they understsnd them
-And what about us?
-
-THEME 5
-COLORFUL GRAFFITI ARARA
-complexity beauty sophistication
-freedom to deface because it's consjderwd anpositive improve,ent
-
-Theme6
-Bicycle
-Most efficient land animal is man
-man on bike even moreso
- simple in design complex in use (like a bo staff or a sword)
- too narrow and doesn't necessarily fit with rest of project.
+Go Here to see more about the anthropolgy of tool use, with respect to linux.
 
 
- Theme 7
- broken triangular shards of green glass in a hand. highlights on contour and a horizontal transversal highlight that shifts as hand is slightly tilted foward and backward.
 
+Interesting profiles of man's relationship with tech. 
 
+Another similar andmore widely recognized/respectedis with old and ultra-new (concept and sports) cars.
 Car culture reduced the complexity of human interaction in cities by reducing frequency of physical proximity, thereby reducing probability of physical, hence 'meaningful,' contact
 
 Smart phones have reduced the layer of attention size that interfaces with the 'real world'
