@@ -39,8 +39,25 @@ WHAT: *UX is more than just designing interfaces.* It is a study of the product'
 
 The psychology of identity, community, and use
 
-WHAT: *Branding is more than just your logo and jingle.* It is a study into the perception of your organizations activities, measuring sentiment and comparing that with other brands in the same space. Branding effort is about finding a way to tell your product's story, a way to tell your user's story and how your product is an essential element of that story. Branding is **essential**
-to the success and survival of any endeavor.
+WHAT: *Branding is more than just your logo and jingle.* It is a study into the perception of your organization's activities, measuring sentiment and comparing that with other brands in the same space. Branding effort is about finding a way to tell your product's story, a way to tell your user's story and how your product is an essential element of that story. Branding is **essential**
+
+Branding:
+Family Love and tool making are ancient, primordial, integral to humanity. 
+A >-(commonality)<- B
+Publicity abd branding should associate  these, emphasize this commonality in clever ways.
+
+"You should use this tech, learn it, become more human (revive your deep human roots)(which have been somewhat lost in post-industrial world)"
+
+## brand associations
+### primary association
+love your family
+be a toolmaker
+
+### lateral association
+Exercise is important- dont be sedentary
+complex and amazing tool making an tool use is important for everyone too. --- dont be mentally sedentary.
+
+to the success and survival of any endeavore
 
 *Key words: positioning, theme, visual identity, relationship, narrative, mythos, coherent, authentic*
 
@@ -54,9 +71,12 @@ WHAT: *Philosphy and poetry are more than mere decorative elememts.* They help g
 # Practical
 ## Marketing:
 
-Marketing is all about getting to know your users, learning about their lives and how to relate to them-- to essentially give them what they want and need.
+Marketing is all about getting to know your users, learning about their lives and how to relate to them-- to essentially give them what they want and need. 
 
-WHAT: *marketing is more than just commercials and selling.* marketing is not equal to commercialization. It is the eyes and ears of the operations. 
+Marketing is am exercise in rational empathy.
+
+WHAT: *marketing is more than just commercials and selling.* marketing ≠commercialization. It is the eyes and ears of the operations.
+
 +What is working? 
 +What isn't working? 
 +Who are our users? 
@@ -73,9 +93,9 @@ WHAT: *marketing is more than just commercials and selling.* marketing is not eq
 
 ## Aesthetic Design: 
 
-Aesthetic design must consider both the image and the story. It must find metaphors, as well ss sensorial and conceptual associations, that are suitable for the product. 
+Aesthetic design must consider both the image and the story. It must find metaphors, as well as sensorial and conceptual associations, that are suitable for the concept. 
 
-WHAT: *Aesthetic Design is more than just making it look pleasing and legible.* The visual identity of the brand and it's products gives a sense of coherent personhood to them both. Almost all brands(excepting most linux distros) have spent a lot of time and effort on creating allegorical references to their user-product-brand relaionship chain.
+WHAT: *Aesthetic Design is more than just making something look pleasing and legible.* The visual identity of the brand and its products gives a sense of coherent personhood to both of the aforementiomed categories. Almost all brands have spent a considerable amount of time and effort creating allegorical references to their user-product-brand relaionship chain.
 
 *key words: textures, mythos, allegory, reference, moodboard*
 
@@ -83,13 +103,19 @@ WHAT: *Aesthetic Design is more than just making it look pleasing and legible.* 
 
 how do people learn about your products and brand?
 
-Aesthetic Design, your brand's mythos, your consumer's pain points, and your solution can be systematically expressed using the guides of Marketing (first lesson: how does market research guide design?)
+Aesthetic Design, your brand's mythos, your consumer's pain points, and your solution can be systematically expressed using the guides of Marketing 
+
+How can market research guide branding, publcity, and design?
 
 ## User-Interface Projects: 
 
 New pmOS-sourced functionality and engineering perspectives
 
-WHAT:here we put concrete ideas for the UI and how the experience of the user can unfold through direct interactions with the product.
+WHAT: *designing user-interfaces is a lot more than 'getting the background in cornflower blue.'* This is an important aspect of the reality construct of the user. It molds his/her understanding of the content he/she is engaged with and what possibilities further are available.
+
+User-interface design, *hackable* ui, is an area that has lots of room for movement.
+
+contents overview: concrete ideas for the UI and how the experience of the user can unfold through direct interactions with the product.
 
 EXAMPLES: hacking the android interfaces to improve flexibility and/or ease users into a creative and technical mentality. making it easier to hack them (as easy as html css or react). clone android interface as a starting point for a possible pmOS skin or theme. multiple themes or profiles that can be shifted between, without losing work or modifying stack, just shift abstraction layer characteristics to better suit need. this will require it's own page. this kind of stuff goes here.
 
