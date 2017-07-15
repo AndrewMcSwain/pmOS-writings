@@ -19,6 +19,8 @@ Identity: Branding is the holographic projection of sentiment and relationship b
 
 Interaction and Voilition: UX is the composition of mental constructs of manipulatory (technical) interaction.  It is a composition of assumptions about the nature or predictability of action and interaction. Furthermore, and, unfortunately, currently less recognized, it deals with the process of how a user *learns* an interface, and, most importantly for us wanting to help ever more users take ever more control of their devices, how that interface can adapt to their learning process and help the user accomplish their goals.
 
+It is important to reiterate that the distinction between these two areas is nebulous. Discovery through a user's experience with the brand develops the branding experience. They have been seperated so they can be more easily managed by sprawling command and control hierarchies, but, like all of the other 'areas' explained herein, the distinctions are abstractions built to reduce complexity, ;-)
+
  
 ### External Interfaces:
 
