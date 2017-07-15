@@ -30,7 +30,7 @@ The senses are used to orient activity. Like finding food from a distance (eyes!
 ----
 It is important to reiterate the nebulousity of the distinction between these four areas. Discovery through a user's experience with the brand develops the brand relationship. Effective communication has at it's heart listening. 
 
-These areas have been seperated, first organizationally then eventually semantically, so they can be more easily managed by sprawling command and control hierarchies, but, like all of the other 'areas' explained herein, the distinctions are abstractions built to reduce complexity.
+These areas have been seperated, first organizationally then eventually semantically, so they can be more easily managed by sprawling command and control hierarchies, but, like all of the other 'areas' explained herein, the distinctions are abstractions built to reduce complexity. ;-)
 
 The above is far from a total introduction, but it is my hope this helps create coherence between Identity/Feeling (Branding), Voilition/Reason (UX), Sensing (Marketing), and Communication (Publicity).
 
@@ -38,17 +38,17 @@ The above is far from a total introduction, but it is my hope this helps create 
 
 **NOTICE**
 
-*We are working on a promotoinal video,* 
+*We are working on a promotional video,* 
 Oriented by some preliminary work on the branding and anthropology of a few of postmarketOS's hypothetical user demographics.
 
 We are looking for participants in this project who possess or would like to possess applicable skills in the following areas:
 - the preliminary theoretical and design work
 - the plannning and execution (production)
 - post-production (editing and after-effects) 
-- as well as the promo's insertion strategy, or internal usage with focus groups and market radaring.
-Thanks!
---Andrew 
-4:30pm June 26th 2016
+- as well as the promo's insertion strategy, or internal usage with focus groups and market radaring.<br>
+Thanks!<br>
+--Andrew <br>
+4:30pm June 26th 2016<br>
 -------
 
 Anyone and everyone is welcome to participate in this discussion. Feel free to ask questions if something is too vague or too poetic. I am more than happy, estatic, really, to recieve comments, criticisms, and collaborations. I urge you to participate even if you think it is not your field
