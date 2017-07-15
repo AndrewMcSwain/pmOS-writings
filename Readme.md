@@ -3,7 +3,7 @@
 ----------------------------
 This is a collection of writings about the [postmarketOS]().
 
-Sorry for the occasional hiccups in style and syntax. I am writing this on a cell phone in termux, that freezes constantly. Unfortunately I'm not on pmOS (yet)! 
+Sorry for the occasional hiccups in style and syntax. I am writing this on a cell phone in termux, that freezes constantly. Unfortunately I'm not on pmOS (yet)! The contents of this repo are a work in progress, and are far from complete. 
 
 We focus on the philosophy of design, branding, publicity, and marketing, as well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts. 
 
@@ -15,7 +15,7 @@ Imagine all of the commercialization hooplah that companies do to "better engage
 
 ### Mental Constructs: 
 
-**Identity:**<br> Branding is the holographic projection of sentiment and relationship between the user and the product. 
+**Identity:**<br> Branding is the holographic projection of sentiment and the relationship between the user and the product. 
 
 **Interaction and Voilition:** <br>UX is the composition of mental constructs of manipulatory (technical) interaction.  It is a composition of assumptions about the nature or predictability of action and interaction. Furthermore, and, unfortunately, currently less recognized, it deals with the process of how a user *learns* an interface (brand), and, most importantly for us wanting to help ever more users take ever more control of their devices, how that interface can adapt to their learning process and help the user accomplish their goals.
 
