@@ -17,14 +17,13 @@ Imagine all of the commercialization hooplah that companies do to "better engage
 
 **Identity:**<br> Branding is the holographic projection of sentiment and the relationship between the user and the product. 
 
-**Interaction and Voilition:** <br>UX is the composition of mental constructs of manipulatory (technical) interaction.  It is a composition of assumptions about the nature or predictability of action and interaction. <br><br>Furthermore, and, unfortunately, currently less recognized, is how UX deals with how a user *learns* an interface (brand), and, most importantly for us wanting to help ever more users take ever more control of their devices, how that interface can adapt to their learning process and help the user accomplish their goals.
+**Interaction and Voilition:** <br>UX is the composition of mental constructs of manipulatory (technical) interaction.  It is a composition of assumptions about the nature or predictability of action and interaction. <br><br>Furthermore, and, unfortunately, something that often goes unrecognized, is how UX deals with how a user *learns* an interface (brand), and, most importantly for us wanting to help ever more users take ever more control of their devices, how that interface can adapt to their learning process and help the user accomplish their goals. </how_iterator>
 
  
 ### External Interfaces:
 
 **Sense Organs (Input):** <br>Marketing is the sensory faculty of the emergent system in question.<br><br>
-The senses are used to orient activity. <br> <br> The most common use case of sensory organs is finding food from a distance to the mouth tissue (eyes! what a wonderfully impressive adaptation! much more effective than feelers or attenae) 
-
+The senses are used to orient activity. <br> <br> The most common use case of sensory organs is finding food from a distance to the mouth tissue (eyes! what a wonderfully impressive adaptation! much more effective than feelers or attenae) <br><br>
 Since brands/organizations/endeavors(emergent systems) aren't human, and arguably not even alive (though existent), a lot of their forms of receiving signals are hard to translate to a human metaphor. I would say the closest correlate is often eco-location/radaring. 
 
 **Mouth (Output):**<br> Publicity. Communication.

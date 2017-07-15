@@ -9,19 +9,19 @@ to understand and thereby cultivate this relationship a collection of anthropolo
 
 Objective: find associations between common values and/or appealing values that align the user-product-brand chain.
 
-In this example we'll be drawing fr
+(note the word find and not create is used. in order to generate a holographic personhood for a brand, one must maintain brand coherence, which is accomplished by remaining *authentic* --ya dig?)
 
-  /---Product
+Here's a model:
+
+` /---Product
  /      |
 /      \|/
 A >-(commonality)<- B
        /|\         /
         |         /
-       User------/
+       User------/`
 
-User is A. B is integrally like A. Brand's product is also A and provides B.
-
-(note the word find and not create is used. in order to generate a holographic personhood for a brand, one must maintain brand coherence, which is accomplished by remaining *authentic* --ya dig?)
+User is B. B is integrally like A. Brand's product is also B and provides A.
 
 Example: Family Love and tool making are ancient, primordial, integral to humanity. 
 
