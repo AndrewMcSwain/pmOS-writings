@@ -13,30 +13,31 @@ Here's a quick intro:
 Imagine all of the commercialization hooplah that companies do to "better engage their users" as a single integrated entity. Understanding that they are all inseperably interdependent can be helpful in understanding the specifics of each area individually.
 
 
-Mental Constructs: 
+### Mental Constructs: 
 
-Identity: Branding is the holographic projection of sentiment and relationship between the user and the product. 
+**Identity:**<br> Branding is the holographic projection of sentiment and relationship between the user and the product. 
 
-Interaction and Voilition: UX is the composition of mental constructs of manipulatory (technical) interaction.  It is a composition of assumptions about the nature or predictability of action and interaction. Furthermore, and, unfortunately, currently less recognized, it deals with the process of how a user *learns* an interface (brand), and, most importantly for us wanting to help ever more users take ever more control of their devices, how that interface can adapt to their learning process and help the user accomplish their goals.
+**Interaction and Voilition:** <br>UX is the composition of mental constructs of manipulatory (technical) interaction.  It is a composition of assumptions about the nature or predictability of action and interaction. Furthermore, and, unfortunately, currently less recognized, it deals with the process of how a user *learns* an interface (brand), and, most importantly for us wanting to help ever more users take ever more control of their devices, how that interface can adapt to their learning process and help the user accomplish their goals.
 
  
-External Interfaces:
+### External Interfaces:
 
-Sense Organs like Ears, Eyes, and Nose (Input): Marketing.
-The senses are used to orient activity. Like finding food from a distance (eyes! what a wonderfully impressive adaptation! much more effective than feelers or attenae) Since branda/organizations/endeavors aren't human, and arguably not even alive (though existent). A lot of their forms of receiving signals are hard to translate to a human metaphor. I would say the closest correlate is often echolocation/radaring. 
+**Sense Organs (Input):** <br>Marketing is the sensory faculty of the emergent system in question.<br>
+The senses are used to orient activity. Like finding food from a distance (eyes! what a wonde/rfully impressive adaptation! much more effective than feelers or attenae) Since branda/organizations/endeavors aren't human, and arguably not even alive (though existent). A lot of their forms of receiving signals are hard to translate to a human metaphor. I would say the closest correlate is often echolocation/radaring. 
 
-Mouth (Output): Publicity. Communication.
+**Mouth (Output):**<br> Publicity. Communication.
 
-
+----
 It is important to reiterate the nebulousity of the distinction between these four areas. Discovery through a user's experience with the brand develops the brand relationship. Effective communication has at it's heart listening. 
 
 These areas have been seperated, first organizationally then eventually semantically, so they can be more easily managed by sprawling command and control hierarchies, but, like all of the other 'areas' explained herein, the distinctions are abstractions built to reduce complexity.
 
-There's a lot more that goes on, but I hope this helps create coherence between Identity (Branding), Voilition (UX), Sensing (Markeing), and Communication (Publicity).
+The above is far from a total introduction, but it is my hope this helps create coherence between Identity/Feeling (Branding), Voilition/Reason (UX), Sensing (Marketing), and Communication (Publicity).
 
 ------
 
-**NOTICE** 
+**NOTICE**
+
 *We are working on a promotoinal video,* 
 Oriented by some preliminary work on the branding and anthropology of a few of postmarketOS's hypothetical user demographics.
 
