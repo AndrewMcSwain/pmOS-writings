@@ -13,21 +13,24 @@ Here's a quick intro:
 Imagine all of the commercialization hooplah that companies do to "better engage their users" as a single integrated entity. Understanding that they are all inseperably interdependent can be helpful in understanding the specifics of each area individually.
 
 
-### Mental Constructs: 
+Mental Constructs: 
 
 Identity: Branding is the holographic projection of sentiment and relationship between the user and the product. 
 
-Interaction and Voilition: UX is the composition of mental constructs of manipulatory (technical) interaction.  It is a composition of assumptions about the nature or predictability of action and interaction. Furthermore, and, unfortunately, currently less recognized, it deals with the process of how a user *learns* an interface, and, most importantly for us wanting to help ever more users take ever more control of their devices, how that interface can adapt to their learning process and help the user accomplish their goals.
-
-It is important to reiterate that the distinction between these two areas is nebulous. Discovery through a user's experience with the brand develops the branding experience. They have been seperated so they can be more easily managed by sprawling command and control hierarchies, but, like all of the other 'areas' explained herein, the distinctions are abstractions built to reduce complexity, ;-)
+Interaction and Voilition: UX is the composition of mental constructs of manipulatory (technical) interaction.  It is a composition of assumptions about the nature or predictability of action and interaction. Furthermore, and, unfortunately, currently less recognized, it deals with the process of how a user *learns* an interface (brand), and, most importantly for us wanting to help ever more users take ever more control of their devices, how that interface can adapt to their learning process and help the user accomplish their goals.
 
  
-### External Interfaces:
+External Interfaces:
 
 Sense Organs like Ears, Eyes, and Nose (Input): Marketing.
 The senses are used to orient activity. Like finding food from a distance (eyes! what a wonderfully impressive adaptation! much more effective than feelers or attenae) Since branda/organizations/endeavors aren't human, and arguably not even alive (though existent). A lot of their forms of receiving signals are hard to translate to a human metaphor. I would say the closest correlate is often echolocation/radaring. 
 
 Mouth (Output): Publicity. Communication.
+
+
+It is important to reiterate the nebulousity of the distinction between these four areas. Discovery through a user's experience with the brand develops the brand relationship. Effective communication has at it's heart listening. 
+
+These areas have been seperated, first organizationally then eventually semantically, so they can be more easily managed by sprawling command and control hierarchies, but, like all of the other 'areas' explained herein, the distinctions are abstractions built to reduce complexity.
 
 There's a lot more that goes on, but I hope this helps create coherence between Identity (Branding), Voilition (UX), Sensing (Markeing), and Communication (Publicity).
 
@@ -37,11 +40,11 @@ There's a lot more that goes on, but I hope this helps create coherence between 
 *We are working on a promotoinal video,* 
 Oriented by some preliminary work on the branding and anthropology of a few of postmarketOS's hypothetical user demographics.
 
-*We are looking for participants in this project who possess or would like to possess applicable skills in the following areas:
---the preliminary theoretical and design work
---the plannning and execution (production)
---post-production (editing and after-effects) 
---as well as the promo's insertion strategy, or internal usage with focus groups and market radaring.*
+We are looking for participants in this project who possess or would like to possess applicable skills in the following areas:
+- the preliminary theoretical and design work
+- the plannning and execution (production)
+- post-production (editing and after-effects) 
+- as well as the promo's insertion strategy, or internal usage with focus groups and market radaring.
 Thanks!
 --Andrew 
 4:30pm June 26th 2016
@@ -64,7 +67,7 @@ WHAT: *UX is more than just designing interfaces.* It is a study of the product'
 *key words: abstraction layer, gestalt, user-story, user path, information flows*
 
 ## Branding: 
-:w
+
 The psychology of identity, community, and use
 
 WHAT: *Branding is more than just your logo and jingle.* It is a study into the perception of your organization's activities, measuring sentiment and comparing that with other brands in the same space. Branding effort is about finding a way to tell your product's story, a way to tell your user's story and how your product is an essential element of that story. Branding is essential to the success and survival of any modern endeavor.
@@ -88,15 +91,15 @@ Marketing is an exercise in rational empathy.
 WHAT: *marketing is more than just commercials and selling.* marketing ≠ commercialization. It is the eyes and ears of the endeavor."
 
 
-+What is working? 
-+What isn't working? 
-+Who are our users? 
-+What do they want from our product? 
-+What are their dreams, desires, hopes, and inspirations?
-+What are they deprived of? 
-+What do they have in abundance?
-+What irritates them?
-+What interests them?
++ What is working? 
++ What isn't working? 
++ Who are our users? 
++ What do they want from our product? 
++ What are their dreams, desires, hopes, and inspirations?
++ What are they deprived of? 
++ What do they have in abundance?
++ What irritates them?
++ What interests them?
 
 *How can our product, besides solving their pain-point, align with the other aspects of their life?*
 
