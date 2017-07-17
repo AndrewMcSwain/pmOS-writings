@@ -64,7 +64,7 @@ Below is a bit more thorough explanation of some of the areas of interest:
 The anthropology of our users and their tool systems. 
 
 
-WHAT: *UX is more than just designing interfaces.* It is a study of the product's use from the user's point of view. It is an observational exercise. UX Design must take behavioral observations and transform them into actionable conclusions that can determine design decisions.
+WHAT: *UX is more than just designing interfaces.*  It is an observational exercise, studying activity and perception. UX Design must take behavioral observations and transform them into actionable conclusions that can determine design decisions.
 
 *key words: abstraction layer, gestalt, user-story, user path, information flows*
 
