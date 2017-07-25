@@ -3,9 +3,42 @@
 ----------------------------
 This is a collection of writings about the [postmarketOS]().
 
-Sorry for the occasional hiccups in style and syntax. I am writing this on a cell phone in termux, that freezes constantly. Unfortunately I'm not on pmOS (yet)! The contents of this repo are a work in progress, and are far from complete. 
 
-We focus on the philosophy of design, branding, publicity, and marketing, as well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts. 
+This text focusess on the philosophy of design, branding, publicity, and marketing, as well as UX and systems research. Most of the work here is focused on perception and relationships, rather than the nuts and bolts.
+
+Preface:
+Before we get started, you need to know that branding is not equal to logo design. Marketing is not the same as advertising or promotion. User-Experience is not UI design. I see a lot of people throw around these words without having a full grasp of what they mean, much less what might be considered a proper approach to arriving at actionable conclusions (like "what color should we name our mascot?"). 
+
+I jumped into this project with the expectation that the participants would be capable of following my train of thought as a practitioner in these fields. I have come to learn that my own lack familiarity with the knowledge base and mental processes required to effectively maneuver computing systems archietecture is mirrored by many engineers/hackers in the softer fields of UX, Marketing, Branding, etc.
+
+Since there is a large gap in knowledge-base and dexterity with the key mental processes involved in what i may lazily call 'marketing work,' and to remain democratic, I have taken it upon myself to introduce the topics to the best of my (quite limited) ability, so that the technical participants can also participate in the more empathetic, user-oriented, processes with the level of sophistication required to build a successful, massified, product.
+
+Don't think that you can't participate just because you don't know the content below. This best way to learn is by doing! This text is an informal reference to what I have internalized the many years that I have been operating in and around these fields.
+
+Anyone and everyone is welcome to participate in this discussion. Feel free to ask questions if something is too vague or too poetic. I am more than happy, estatic, really, to recieve comments, criticisms, and collaborations. I urge you to participate even if you think it is not your field
+
+The target audience for this is our ENGINEERS, **YOU**. We need your contributions, mutual comprehension is the goal here.
+
+
+
+------
+
+**NOTICE**
+
+*We are working on a promotional video,* 
+Oriented by some preliminary work on the branding and anthropology of a few of postmarketOS's hypothetical user demographics.
+
+We are looking for participants in this project who possess or would like to possess applicable skills in the following areas:
+- the preliminary theoretical and design work
+- the plannning and execution (production)
+- post-production (editing and after-effects) 
+- as well as the promo's insertion strategy, or internal usage with focus groups and market radaring.<br>
+Thanks!<br>
+--Andrew <br>
+4:30pm June 26th 2016<br>
+-------
+
+
 
 
 Here's a quick intro:
@@ -34,27 +67,6 @@ It is important to reiterate the nebulousity of the distinction between these fo
 These areas have been seperated, first organizationally then eventually semantically, so they can be more easily managed by sprawling command and control hierarchies, but, like all of the other 'areas' explained herein, the distinctions are abstractions built to reduce complexity. ;-)
 
 The above is far from a total introduction, but it is my hope this helps create coherence between Identity/Feeling (Branding), Voilition/Reason (UX), Sensing (Marketing), and Communication (Publicity).
-
-------
-
-**NOTICE**
-
-*We are working on a promotional video,* 
-Oriented by some preliminary work on the branding and anthropology of a few of postmarketOS's hypothetical user demographics.
-
-We are looking for participants in this project who possess or would like to possess applicable skills in the following areas:
-- the preliminary theoretical and design work
-- the plannning and execution (production)
-- post-production (editing and after-effects) 
-- as well as the promo's insertion strategy, or internal usage with focus groups and market radaring.<br>
-Thanks!<br>
---Andrew <br>
-4:30pm June 26th 2016<br>
--------
-
-Anyone and everyone is welcome to participate in this discussion. Feel free to ask questions if something is too vague or too poetic. I am more than happy, estatic, really, to recieve comments, criticisms, and collaborations. I urge you to participate even if you think it is not your field
-
-The target audience for this is our ENGINEERS, **YOU**. We need your contributions, mutual comprehension is the goal here.
 
 Below is a bit more thorough explanation of some of the areas of interest:
 
